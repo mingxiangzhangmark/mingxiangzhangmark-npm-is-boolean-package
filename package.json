@@ -15,7 +15,7 @@
     "test"
   ],
   "author": "mingxiangzhang",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mingxiangzhangmark/mingxiangzhangmark-npm-is-boolean-package/issues"
   },
