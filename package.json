@@ -1,0 +1,23 @@
+{
+  "name": "is-boolean",
+  "version": "1.0.0",
+  "description": "A npm package to test if the word is boolean(true or false)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingxiangzhangmark/mingxiangzhangmark-npm-is-boolean-package.git"
+  },
+  "keywords": [
+    "boolean",
+    "test"
+  ],
+  "author": "mingxiangzhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingxiangzhangmark/mingxiangzhangmark-npm-is-boolean-package/issues"
+  },
+  "homepage": "https://github.com/mingxiangzhangmark/mingxiangzhangmark-npm-is-boolean-package#readme"
+}
